@@ -16,6 +16,10 @@ main:
   - name: CV
     weight: 90
     url: uploads/resume.pdf
+  - name: Teaching Portfolio
+    weight: 120
+    url: https://fr.slideshare.net/QuentinMoreau12/edit_my_uploads
+
 
 
 # # Link to a PDF of your resume/CV from the menu.
