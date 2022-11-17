@@ -6,7 +6,7 @@ title: Quentin Moreau
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher in Social Neuroscience, Université de Montréal
+role: Postdoctoral Researcher in Social Neuroscience, Université de Montréal
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -69,7 +69,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am currently a Postdoctoral Researcher in the Precision Psychiatry & Social Physiology lab led by Guillaume Dumas, Montréal, QC. I am interested in various  neurophysiological approaches to the study of social neuroscience  
+I am currently a Postdoctoral Researcher in the Precision Psychiatry & Social Physiology lab led by Guillaume Dumas, Montréal, QC. I am interested in various  neurophysiological approaches to the study of social neuroscience
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
